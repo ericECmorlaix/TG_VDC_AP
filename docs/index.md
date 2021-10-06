@@ -28,7 +28,7 @@ Site : [https://www.parcoursup.fr/](https://www.parcoursup.fr/){target=_blank}
 - Vidéo complémentaire par M. QUINIO :
 
 <figure>
-<video width="60%"  controls>
+<video width="560" height="315" controls>
   <source src="./assets/Parcoursup.mp4" type="video/mp4">  
 Your browser does not support the video tag.
 </video>
