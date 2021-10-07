@@ -48,6 +48,8 @@ Your browser does not support the video tag.
 </figure>
 
 
+## MOOC orientation : [https://www.mooc-orientation.fr/](https://www.mooc-orientation.fr/)
+
 ## Salon Azimut Brest :
 
 - Site : [https://www.salon-azimut.com/](https://www.salon-azimut.com/){target=_blank} ;
