@@ -19,11 +19,16 @@ Site : [https://www.parcoursup.fr/](https://www.parcoursup.fr/){target=_blank}
 
 ### Utiliser le moteur de recherche de formations :
 
-- Vidéo officielle :
+<!-- - Vidéo officielle :
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iYy2ESlcI6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+</figure> -->
+
+[Lien vers la Carte interactive de Parcoursup](https://dossier.parcoursup.fr/Candidat/carte){target=_blank}
+
+Cet outil permet aux candidats de découvrir l'ensemble des formations proposées sur Parcoursup et ainsi d’affiner leurs recherches de manière simple et intuitive, en saisissant des mots clés, des filières de formations et/ou en sélectionnant une zone géographique précise.
+
 
 - Vidéo complémentaire par M. QUINIO :
 
@@ -34,7 +39,20 @@ Your browser does not support the video tag.
 </video>
 </figure>
 
-- Voeux motivés...
+### Liens vers les brochures nationales mises à jour :
+
+  -	[Brochure « Parcoursup 2022 : le calendrier en 3 étapes »](https://eduscol.education.fr/document/3144/download?attachment){target=_blank} 
+  -	[Diaporama de présentation synthétique de Parcoursup 2022](https://eduscol.education.fr/document/4053/download?attachment){target=_blank} 
+  -	[Brochure « Bien préparer son baccalauréat et son entrée dans l’enseignement supérieur »](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
+
+### Voeux motivés :
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v-yUg8LTahQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### [Ensemble des ressources](https://services.dgesip.fr/T454/S743/ressources){target=_blank}
+
 
 
 ## Padlet orientation :
